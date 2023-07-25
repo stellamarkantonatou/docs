@@ -36,7 +36,7 @@ In Pomak the verbs broadly translated as "to be" are assigned the tag [AUX]():
     * _za bú senǽ svóršahme, dagodíno 'sæ pak, akú býde kysmét_ "for this year we have finished, again next year, if it is ment to be" [lit."for this year we finished, next year again, if it is written"] - 
     * _néma go u tæh, atišlól še by pa komšújese_ "he is not at home, he must have gone to [someone of] the neighbors"
 
-- the interrogative word _li / dalí_ "question particle" (necessary to form direct questions)
+- the interrogative word _li / dalí_ / (rarely) _my_ "question particle" (necessary to form direct questions)
     * _ažónen li si?_ "are you married?" [lit. "married you?"]
     * _dalí dójdom i ja sas vámi?_ "should I come with you?" [lit. "come and I with you?"
 
